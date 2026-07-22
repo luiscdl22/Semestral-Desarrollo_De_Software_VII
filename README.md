@@ -32,8 +32,6 @@ public/index.php  ->  clases/Router.php  ->  app/controllers/*  ->  app/models/*
 
 ## Capturas de ejecucion
 
-*(coloca los archivos en `docs/screenshots/` con estos nombres)*
-
 **Inicio de sesion**
 ![Login](docs/screenshots/01-login.png)
 
