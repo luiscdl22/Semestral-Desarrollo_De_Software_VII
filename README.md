@@ -1,7 +1,7 @@
 # Sistema de Trivias
 
 Proyecto semestral final - Desarrollo de Software VII
-Profesora: Irina Fong
+
 
 Plataforma de trivias gamificada desarrollada en PHP nativo (POO, MVC, PDO).
 
@@ -18,7 +18,6 @@ El sistema permite a los usuarios jugar trivias por temas y niveles de dificulta
 - Preguntas de opcion multiple y verdadero/falso
 - Sistema de premios asociados a niveles
 - Avatar de perfil y visualizacion de puntos acumulados
-- Modo multijugador por codigo de sala
 - Estadisticas y calificacion de temas ("Me gusta")
 - Ranking, encuestas y feedback de la aplicacion
 - Reporte de progreso exportable a Excel
