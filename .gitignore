@@ -1,0 +1,23 @@
+# Dependencias
+/vendor/
+
+# Configuracion local
+.env
+
+# Logs
+/logs/*.log
+
+# Archivos generados en tiempo de ejecucion
+/public/uploads/*
+/public/storage/*
+!/public/uploads/.gitkeep
+!/public/storage/.gitkeep
+
+# Entorno / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Sesiones de PHP si se guardan localmente
+/sessions/
